@@ -3,9 +3,8 @@ table {
 }
 
 td {
-	width: 75px;
-	margin-left: auto;
-	margin-right: auto;
+  width: 75px;
+  text-align: center;
 }
 a {
 	text-decoration-line: none;
