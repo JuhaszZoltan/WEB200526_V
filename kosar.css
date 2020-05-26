@@ -6,12 +6,15 @@ td {
   width: 75px;
   text-align: center;
 }
+
 a {
 	text-decoration-line: none;
 }
+
 p {
 	text-align: justify;
 }
+
 h1 {
 	border-bottom: lightgray solid 1px;
 }
@@ -27,6 +30,7 @@ h1 {
 	margin: -35px;
 	padding: 15px;
 }
+
 #tovabb:hover {
 	background-color: black;
 }
